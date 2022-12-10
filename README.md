@@ -2,7 +2,7 @@
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Computer Science at EPFL
 - 💞️ I’m looking to collaborate on any learning project
-- 📫 You can reach me by using my webiste: [here](xavierogay.ch)
+- 📫 You can reach me by using my webiste: [here](http://xavierogay.ch)
 
 <!---
 2Tricky4u/2Tricky4u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
