@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CyberSecurity+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+
 - 👀 I’m interested in CyberSecurity and Neuro Engineering
 - 🌱 I’m currently learning CyberSecurity at EPFL and ETHZ. I already have a bachelor graduation in Computer Science also at EPFL
 - 💞️ I’m looking to collaborate on any learning project
@@ -29,7 +30,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ### My Stats :bar_chart:
-![2Tricky4u's GitHub stats]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2Tricky4u&theme=dark&hide_border=true)](https://git.io/streak-stats))
+![2Tricky4u's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=2Tricky4u&theme=dark&hide_border=true)
 
 <!---
 2Tricky4u/2Tricky4u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
