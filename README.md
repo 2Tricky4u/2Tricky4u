@@ -1,10 +1,14 @@
 ### 👋 Hi, I’m @2Tricky4u
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CyberSecurity+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 - 👀 I’m interested in CyberSecurity and Neuro Engineering
 - 🌱 I’m currently learning CyberSecurity at EPFL and ETHZ. I already have a bachelor graduation in Computer Science also at EPFL
 - 💞️ I’m looking to collaborate on any learning project
 - 📫 You can reach me by using my website: [here](http://xavierogay.ch)
 
 ### Technology :computer:
+![Rust](https://img.shields.io/badge/rust-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -25,7 +29,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ### My Stats :bar_chart:
-![Arundhati's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Tricky4u&theme=tokyonight&show_icons=true)
+![2Tricky4u's GitHub stats]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2Tricky4u&theme=dark&hide_border=true)](https://git.io/streak-stats))
 
 <!---
 2Tricky4u/2Tricky4u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
