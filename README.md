@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m @2Tricky4u
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CyberSecurity+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CyberSecurity+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-- 👀 I’m interested in CyberSecurity and Neuro Engineering
-- 🌱 I’m currently learning CyberSecurity at EPFL and ETHZ. I already have a bachelor graduation in Computer Science also at EPFL
+- 👀 I’m interested in CyberSecurity, Low-level and Neuro Engineering
+- 🌱 I currently have an MSc in CyberSecurity at EPFL and ETHZ.
 - 💞️ I’m looking to collaborate on any learning project
 - 📫 You can reach me by using my website: [here](http://xavierogay.ch)
 
